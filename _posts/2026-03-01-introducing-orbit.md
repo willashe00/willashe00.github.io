@@ -1,6 +1,6 @@
 ---
 title: "Introducing ORBIT: An Agentic Framework for BIM-FEA Interoperability"
-date: 2026-03-01 12:00:00 -0500
+date: 2026-02-28 12:00:00 -0500
 categories: [Research, BIM]
 tags: [orbit, bim, fea, langgraph, ifc, ansys, nuclear]
 description: "An overview of ORBIT, an agentic AI framework for automated bidirectional conversion between Building Information Models and Finite Element Analysis workflows in nuclear construction."
